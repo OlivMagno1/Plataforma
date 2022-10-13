@@ -3,12 +3,12 @@
 </template>
 
 <script>
-import BusTitleCard from '@/components/Bus/BusTitleCard.vue'
+import BusTitleCard from "@/components/Bus/BusTitleCard.vue";
 
 export default {
-  name: 'BusView',
+  name: "BusView",
   components: {
-    BusTitleCard
-  }
-}
+    BusTitleCard,
+  },
+};
 </script>

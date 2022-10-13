@@ -3,12 +3,12 @@
 </template>
 
 <script>
-import PlanesTitleCard from '@/components/Planes/PlanesTitleCard.vue'
+import PlanesTitleCard from "@/components/Planes/PlanesTitleCard.vue";
 
 export default {
-  name: 'AvioesView',
+  name: "AvioesView",
   components: {
-    PlanesTitleCard
-  }
-}
+    PlanesTitleCard,
+  },
+};
 </script>

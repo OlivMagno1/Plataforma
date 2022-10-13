@@ -1,9 +1,8 @@
 import { createWebHistory, createRouter } from "vue-router";
-import TremView from "@/views/TremView.vue"
+import TremView from "@/views/TremView.vue";
 import HomeView from "@/views/HomeView.vue";
 import AvioesView from "@/views/AvioesView.vue";
 import OnibusView from "@/views/OnibusView.vue";
-
 
 const routes = [
   {

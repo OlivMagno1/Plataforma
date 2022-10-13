@@ -3,12 +3,12 @@
 </template>
 
 <script>
-import TrainsTitleCard from '@/components/Trains/TrainsTitleCard.vue'
+import TrainsTitleCard from "@/components/Trains/TrainsTitleCard.vue";
 
 export default {
-  name: 'TremView',
+  name: "TremView",
   components: {
-    TrainsTitleCard
-  }
-}
+    TrainsTitleCard,
+  },
+};
 </script>
